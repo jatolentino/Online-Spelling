@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="shortcut icon" href="#">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+</head>
+
+<body>
+	<p>Click the following button to see the function in action</p>  
+	<!--<input type = "button" onclick = "readWord()" value = "Display"> -->
+	<button onclick="readWord()"> B Flat </button>
+	<div id="div">
+	</div>
+</body>
+	
+</html>
+
+<script>
+var word = 'foshizzle';
+var div = document.getElementById('div');
+let datatoplay=[];
+//var mydata = JSON.parse(data);
+
+function readWord() {
+	var pos = 0;
+	var duration = 600;
+	var text = '';
+	let thesound = new Audio();
+	
+	var readLetter = (function readLetter () {
+		
+		if (pos < word.length) {
+				let mysyllabe = word.substr(pos, 1);
+				var myvar;
+				//$letterjson = myletter;
+				
+				$.ajax({
+					url: 'file2.json',
+					async: false,
+					dataType: 'json',
+					success: function(data) {					
+						$.each(data.items, function(i, f) {
+							if (f.myletter == mysyllabe){
+							thesound.src = f.source;
+							thesound.defaultPlaybackRate =2;
+							thesound.play();
+							}
+						});
+					}
+				});
+			//console.log($data.items);
+			text += mysyllabe;
+			div.innerHTML = text;
+			pos++;
+			setTimeout(readLetter, duration);
+		}
+	
+				
+		})();
+}
+</script>
