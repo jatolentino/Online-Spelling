@@ -2,35 +2,35 @@
   "items": [
     {
       "myletter": "f",
-			"source": "f.mp3",
+      "source": "f.mp3"
     },
 		{
       "myletter": "o",
-			"source": "o.mp3",
+      "source": "o.mp3"
     },
 		{
       "myletter": "i",
-			"source": "i.mp3",
+      "source": "i.mp3"
     },
 		{
       "myletter": "s",
-			"source": "s.mp3",
+      "source": "s.mp3"
     },
 		{
       "myletter": "h",
-			"source": "h.mp3",
+      "source": "h.mp3"
     },
 		{
       "myletter": "l",
-			"source": "l.mp3",
+      "source": "l.mp3"
     },
 		{
       "myletter": "z",
-			"source": "z.mp3",
+      "source": "z.mp3"
     },
-		{
+    {
       "myletter": "e",
-			"source": "e.mp3",
+      "source": "e.mp3"
     }
-    ]
+   ]
 }
