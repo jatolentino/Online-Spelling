@@ -10,7 +10,7 @@
 <body>
 	<p>Click the following button to see the function in action</p>  
 	<!--<input type = "button" onclick = "readWord()" value = "Display"> -->
-	<button onclick="readWord()"> B Flat </button>
+	<button onclick="readWord('abcdefghijklmnopqrstuvwxyz')"> Spell </button>
 	<div id="div">
 	</div>
 </body>
@@ -18,14 +18,14 @@
 </html>
 
 <script>
-var word = 'foshizzle';
+//var word = 'foshizzle';
 var div = document.getElementById('div');
 let datatoplay=[];
 //var mydata = JSON.parse(data);
 
-function readWord() {
+function readWord(word) {
 	var pos = 0;
-	var duration = 600;
+	var duration = 500;
 	var text = '';
 	let thesound = new Audio();
 	
@@ -43,6 +43,7 @@ function readWord() {
 					success: function(data) {					
 						$.each(data.items, function(i, f) {
 							if (f.myletter == mysyllabe){
+							mynewvar = f.source;
 							thesound.src = f.source;
 							thesound.defaultPlaybackRate =2;
 							thesound.play();
@@ -50,14 +51,13 @@ function readWord() {
 						});
 					}
 				});
-			//console.log($data.items);
+			console.log(mynewvar);
+			//console.log(f.myletter);
 			text += mysyllabe;
 			div.innerHTML = text;
 			pos++;
 			setTimeout(readLetter, duration);
 		}
-	
-				
 		})();
 }
 </script>
