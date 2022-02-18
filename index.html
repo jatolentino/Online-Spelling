@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!--  <script type="text/javascript" src="data.json"></script> -->
+	<!-- <link rel="stylesheet" href="css/bootstrapmin.css" > -->
+	<!--<script type="text/javascript" src="main.js"></script> -->
+</head>
+<body>
+	<p>Click the following button to see the function in action</p>  
+	<input type = "button" onclick = "readWord()" value = "Display">  
+	</body>  
+	<div id="div"></div>
+</body>
+</html>
+<!--<script> 
+    $.support.cors = true;
+</script> -->
+<script>
+var word = 'foshizzle';
+var div = document.getElementById('div');
+let datatoplay=[];
+//var mydata = JSON.parse(data);
+
+function readWord() {
+	var pos = 0;
+	var duration = 600;
+	var text = '';
+	let bflat = new Audio();
+	
+	var readLetter = (function readLetter () {
+		
+		if (pos < word.length) {
+				let letter = word.substr(pos, 1);
+				//mytext = word[pos];
+				console.log(letter);
+				
+				bflat.src = "bflat.mp3";
+
+				
+				bflat.defaultPlaybackRate =2;
+				bflat.play()
+				text += letter;
+				div.innerHTML = text;
+				pos++;
+				setTimeout(readLetter, duration);
+		}
+	})();
+	
+}
+//buckleigh
+//readWord(word, div);
+</script>
