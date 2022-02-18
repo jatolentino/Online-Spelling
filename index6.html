@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" href="#">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+	<!--<script type="text/javascript" src="file.json"></script> -->
+</head>
+
+<body>
+
+<h2>Creating an Object Parsing JSON</h2>
+<p id="demo"></p>
+<audio id="bflat1"> </audio>
+<button onclick="PlaySound()"> B Flat </button>
+
+</body>
+</html>
+<script>
+let bflat = new Audio();
+function PlaySound() {
+	var $jsonIssues = [];
+    $.ajax({
+        url: 'file2.json',
+        //async: false,
+        dataType: 'json',
+        success: function(data) {
+			//var jsonIssues = [];
+			$.each(data.items, function(i, f) {
+				if (f.myletter == "f"){
+            		$jsonIssues = f.source;
+					//console.log(jsonIssues);
+				}
+				
+			});
+		statusCode: {
+			console.log($jsonIssues)
+        }
+       	}
+        
+    });
+	console.log($jsonIssues);
+}
+</script>
