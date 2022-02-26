@@ -20,7 +20,7 @@ let bflat = new Audio();
 function PlaySound() {
 	var $jsonIssues = [];
     $.ajax({
-        url: 'file2.json',
+        url: './src/file2.json',
         //async: false,
         dataType: 'json',
         success: function(data) {
