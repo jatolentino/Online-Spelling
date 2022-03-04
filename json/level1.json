@@ -1,0 +1,711 @@
+﻿{
+    "dictions": [
+        {
+            "#": "1",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eagg"
+        },
+        {
+            "#": "2",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eaei"
+        },
+        {
+            "#": "3",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aaee"
+        },
+        {
+            "#": "4",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jigi"
+        },
+        {
+            "#": "5",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eajg"
+        },
+        {
+            "#": "6",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jiae"
+        },
+        {
+            "#": "7",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "egej"
+        },
+        {
+            "#": "8",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aiii"
+        },
+        {
+            "#": "9",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jeig"
+        },
+        {
+            "#": "10",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eeeg"
+        },
+        {
+            "#": "11",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ajag"
+        },
+        {
+            "#": "12",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aeej"
+        },
+        {
+            "#": "13",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "iaej"
+        },
+        {
+            "#": "14",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gaag"
+        },
+        {
+            "#": "15",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gjje"
+        },
+        {
+            "#": "16",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "agee"
+        },
+        {
+            "#": "17",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ejji"
+        },
+        {
+            "#": "18",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gjgi"
+        },
+        {
+            "#": "19",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jgee"
+        },
+        {
+            "#": "20",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "agee"
+        },
+        {
+            "#": "21",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gjii"
+        },
+        {
+            "#": "22",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jaig"
+        },
+        {
+            "#": "23",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jeag"
+        },
+        {
+            "#": "24",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eeii"
+        },
+        {
+            "#": "25",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gegi"
+        },
+        {
+            "#": "26",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jjjg"
+        },
+        {
+            "#": "27",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eega"
+        },
+        {
+            "#": "28",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jagi"
+        },
+        {
+            "#": "29",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ggjj"
+        },
+        {
+            "#": "30",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "agea"
+        },
+        {
+            "#": "31",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gaga"
+        },
+        {
+            "#": "32",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gaeg"
+        },
+        {
+            "#": "33",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "igia"
+        },
+        {
+            "#": "34",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gjge"
+        },
+        {
+            "#": "35",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "iage"
+        },
+        {
+            "#": "36",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "geai"
+        },
+        {
+            "#": "37",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "giij"
+        },
+        {
+            "#": "38",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "iaji"
+        },
+        {
+            "#": "39",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aiji"
+        },
+        {
+            "#": "40",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jgia"
+        },
+        {
+            "#": "41",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jaaj"
+        },
+        {
+            "#": "42",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jggi"
+        },
+        {
+            "#": "43",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aiaj"
+        },
+        {
+            "#": "44",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jaia"
+        },
+        {
+            "#": "45",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "giea"
+        },
+        {
+            "#": "46",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ajjj"
+        },
+        {
+            "#": "47",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "iggi"
+        },
+        {
+            "#": "48",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aajg"
+        },
+        {
+            "#": "49",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eiii"
+        },
+        {
+            "#": "50",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jeij"
+        },
+        {
+            "#": "51",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jeaa"
+        },
+        {
+            "#": "52",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "giij"
+        },
+        {
+            "#": "53",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "igjj"
+        },
+        {
+            "#": "54",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "egaj"
+        },
+        {
+            "#": "55",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "iaaj"
+        },
+        {
+            "#": "56",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "giej"
+        },
+        {
+            "#": "57",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eajg"
+        },
+        {
+            "#": "58",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eeej"
+        },
+        {
+            "#": "59",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jjai"
+        },
+        {
+            "#": "60",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "agaa"
+        },
+        {
+            "#": "61",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eega"
+        },
+        {
+            "#": "62",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jgii"
+        },
+        {
+            "#": "63",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eaai"
+        },
+        {
+            "#": "64",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gggj"
+        },
+        {
+            "#": "65",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "igjg"
+        },
+        {
+            "#": "66",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jjia"
+        },
+        {
+            "#": "67",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jijg"
+        },
+        {
+            "#": "68",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gigj"
+        },
+        {
+            "#": "69",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ejgg"
+        },
+        {
+            "#": "70",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aiga"
+        },
+        {
+            "#": "71",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aeia"
+        },
+        {
+            "#": "72",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "iaij"
+        },
+        {
+            "#": "73",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "geei"
+        },
+        {
+            "#": "74",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gjea"
+        },
+        {
+            "#": "75",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gigj"
+        },
+        {
+            "#": "76",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ieii"
+        },
+        {
+            "#": "77",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aaeg"
+        },
+        {
+            "#": "78",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ijgj"
+        },
+        {
+            "#": "79",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aegj"
+        },
+        {
+            "#": "80",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jjia"
+        },
+        {
+            "#": "81",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gaje"
+        },
+        {
+            "#": "82",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "agij"
+        },
+        {
+            "#": "83",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "giei"
+        },
+        {
+            "#": "84",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "giea"
+        },
+        {
+            "#": "85",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jgjj"
+        },
+        {
+            "#": "86",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ggga"
+        },
+        {
+            "#": "87",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "egij"
+        },
+        {
+            "#": "88",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "geii"
+        },
+        {
+            "#": "89",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jgae"
+        },
+        {
+            "#": "90",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "agjj"
+        },
+        {
+            "#": "91",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eaii"
+        },
+        {
+            "#": "92",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "gegg"
+        },
+        {
+            "#": "93",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eiji"
+        },
+        {
+            "#": "94",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "agga"
+        },
+        {
+            "#": "95",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "eeja"
+        },
+        {
+            "#": "96",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jjgi"
+        },
+        {
+            "#": "97",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aggg"
+        },
+        {
+            "#": "98",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aaae"
+        },
+        {
+            "#": "99",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "jijg"
+        },
+        {
+            "#": "100",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aeei"
+        },
+        {
+            "#": "101",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aiii"
+        }
+    ]
+}

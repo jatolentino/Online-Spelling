@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "myletter": "f",
+      "source": "f.mp3"
+    },
+		{
+      "myletter": "o",
+      "source": "o.mp3"
+    },
+		{
+      "myletter": "i",
+      "source": "i.mp3"
+    },
+		{
+      "myletter": "s",
+      "source": "s.mp3"
+    },
+		{
+      "myletter": "h",
+      "source": "h.mp3"
+    },
+		{
+      "myletter": "l",
+      "source": "l.mp3"
+    },
+		{
+      "myletter": "z",
+      "source": "z.mp3"
+    },
+    {
+      "myletter": "e",
+      "source": "e.mp3"
+    }
+   ]
+}

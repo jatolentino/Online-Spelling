@@ -1,0 +1,634 @@
+﻿{
+    "dictions": [
+        {
+            "#": "1",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "abet"
+        },
+        {
+            "#": "2",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "accessible"
+        },
+        {
+            "#": "3",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "acquisitive"
+        },
+        {
+            "#": "4",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "amalgamate"
+        },
+        {
+            "#": "5",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "attenuate"
+        },
+        {
+            "#": "6",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "augment"
+        },
+        {
+            "#": "7",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "aversion"
+        },
+        {
+            "#": "8",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "blithe"
+        },
+        {
+            "#": "9",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "contempt"
+        },
+        {
+            "#": "10",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "dawdle"
+        },
+        {
+            "#": "11",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "deflect"
+        },
+        {
+            "#": "12",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "discount"
+        },
+        {
+            "#": "13",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "dissident"
+        },
+        {
+            "#": "14",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "efficacious"
+        },
+        {
+            "#": "15",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "equitable"
+        },
+        {
+            "#": "16",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "erratic"
+        },
+        {
+            "#": "17",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "industrious"
+        },
+        {
+            "#": "18",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "inform"
+        },
+        {
+            "#": "19",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "irksome"
+        },
+        {
+            "#": "20",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "manacle"
+        },
+        {
+            "#": "21",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "modest"
+        },
+        {
+            "#": "22",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "noxious"
+        },
+        {
+            "#": "23",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "pernicious"
+        },
+        {
+            "#": "24",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "predicament"
+        },
+        {
+            "#": "25",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "proficient"
+        },
+        {
+            "#": "26",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "prolix"
+        },
+        {
+            "#": "27",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "scorn"
+        },
+        {
+            "#": "28",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "subordinate"
+        },
+        {
+            "#": "29",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "unseemly"
+        },
+        {
+            "#": "30",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "veritable"
+        },
+        {
+            "#": "31",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "acclaim"
+        },
+        {
+            "#": "32",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ascertain"
+        },
+        {
+            "#": "33",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "assertive"
+        },
+        {
+            "#": "34",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "bogus"
+        },
+        {
+            "#": "35",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "cataclysmic"
+        },
+        {
+            "#": "36",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "circumscribe"
+        },
+        {
+            "#": "37",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "complementary"
+        },
+        {
+            "#": "38",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "contentious"
+        },
+        {
+            "#": "39",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "disingenuous"
+        },
+        {
+            "#": "40",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "divulge"
+        },
+        {
+            "#": "41",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "dogmatic"
+        },
+        {
+            "#": "42",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "fallacious"
+        },
+        {
+            "#": "43",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "foolhardy"
+        },
+        {
+            "#": "44",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "hinder"
+        },
+        {
+            "#": "45",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "impair"
+        },
+        {
+            "#": "46",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "impugn"
+        },
+        {
+            "#": "47",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "incessant"
+        },
+        {
+            "#": "48",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "inclined"
+        },
+        {
+            "#": "49",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "inveterate"
+        },
+        {
+            "#": "50",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "miserly"
+        },
+        {
+            "#": "51",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "patent"
+        },
+        {
+            "#": "52",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "petulant"
+        },
+        {
+            "#": "53",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "pithy"
+        },
+        {
+            "#": "54",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "pliant"
+        },
+        {
+            "#": "55",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "sanctimonious"
+        },
+        {
+            "#": "56",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "sound"
+        },
+        {
+            "#": "57",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "tarnish"
+        },
+        {
+            "#": "58",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "tepid"
+        },
+        {
+            "#": "59",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "upbraid"
+        },
+        {
+            "#": "60",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "vexation"
+        },
+        {
+            "#": "61",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "antedate"
+        },
+        {
+            "#": "62",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "banish"
+        },
+        {
+            "#": "63",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "bridle"
+        },
+        {
+            "#": "64",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "comply"
+        },
+        {
+            "#": "65",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "crestfallen"
+        },
+        {
+            "#": "66",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "curtail"
+        },
+        {
+            "#": "67",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "elucidate"
+        },
+        {
+            "#": "68",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "evade"
+        },
+        {
+            "#": "69",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "feckless"
+        },
+        {
+            "#": "70",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "fester"
+        },
+        {
+            "#": "71",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "iconoclastic"
+        },
+        {
+            "#": "72",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "immure"
+        },
+        {
+            "#": "73",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "improvise"
+        },
+        {
+            "#": "74",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "inhibit"
+        },
+        {
+            "#": "75",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "inscrutable"
+        },
+        {
+            "#": "76",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "lionize"
+        },
+        {
+            "#": "77",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "monotonous"
+        },
+        {
+            "#": "78",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "peculiar"
+        },
+        {
+            "#": "79",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "premeditate"
+        },
+        {
+            "#": "80",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "profligate"
+        },
+        {
+            "#": "81",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "reconcile"
+        },
+        {
+            "#": "82",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "refine"
+        },
+        {
+            "#": "83",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "relinquish"
+        },
+        {
+            "#": "84",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "ruminate"
+        },
+        {
+            "#": "85",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "skittish"
+        },
+        {
+            "#": "86",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "superfluous"
+        },
+        {
+            "#": "87",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "synoptic"
+        },
+        {
+            "#": "88",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "thorough"
+        },
+        {
+            "#": "89",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "visionary"
+        },
+        {
+            "#": "90",
+            "Play": "",
+            "Type": "",
+            "Check": "",
+            "dicWord": "vociferous"
+        }
+    ]
+}

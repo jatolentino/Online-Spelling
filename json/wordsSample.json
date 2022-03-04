@@ -1,0 +1,32 @@
+{
+  "dictions": [
+		{
+			"#": 1,
+			"Play": "",
+			"Type": "",
+			"Check": "",
+			"dicWord": "hello"
+		},
+		{
+			"#": 2,
+			"Play": "",
+			"Type": "",
+			"Check": "",
+			"dicWord": "world"
+		},
+		{
+			"#": 3,
+			"Play": "",
+			"Type": "",
+			"Check": "",
+			"dicWord": "this"
+		},
+		{
+			"#": 4,
+			"Play": "",
+			"Type": "",
+			"Check": "",
+			"dicWord": "application"
+		}
+   ]
+}
