@@ -1,7 +1,7 @@
 ![Github All Releases](https://img.shields.io/github/downloads/jatolentino/Online-Spelling/total?logo=GitHub&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jatolentino/Online-Spelling)
 ![GitHub language count](https://img.shields.io/github/languages/count/jatolentino/Online-Spelling?color=success&logo=CodersRank&logoColor=%23FFFFFF)
-[![version](https://img.shields.io/badge/version-1.1-red.svg)](//npmjs.com/package/Online-Spelling)
+[![version](https://img.shields.io/badge/version-1.0-red.svg)](//npmjs.com/package/Online-Spelling)
 
 # Online-Spelling
 
